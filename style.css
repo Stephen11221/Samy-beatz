@@ -32,3 +32,9 @@
     border-radius: 8px;
     color: antiquewhite;
 }
+.about-img img{
+    border-radius: 100px;
+    width: 80px;
+    height: 80px;
+    margin-left: 20px;
+}
